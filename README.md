@@ -4,7 +4,7 @@
 # apt upgrade -y
 # termux-setup-storage 
 # apt install python 
-$ apt install git
+# apt install git
 # pip install seledroid 
 
 # git clone https://github.com/MohammedNajih/Facebook-Login
